@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hometeq is an online retail platform specializing in smart home technology and IoT devices. The site offers a wide range of cloud-controlled tech products designed to make your home and life smarter, including smart security systems, smart energy management devices, smart speakers, and more.
+Hometeq is an online retail platform specializing in smart home technology and IoT devices. The site offers a wide range of cloud-controlled tech products designed to make your home and life smarter, including smart security systems, smart energy management devices, smart speakers, and more. This project was developed for the learning objectives for the Server-Side Web Development module in the BEng Software Engineering degree program from the University of Westminster.
 
 ## Features
 
